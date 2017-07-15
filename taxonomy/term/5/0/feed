@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://jenville.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Jenville - site</title>
+ <link>http://jenville.com/taxonomy/term/5/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Welcome to JENVILLE 2.0!!</title>
+ <link>http://jenville.com/making/welcome-jenville-20</link>
+ <description>&lt;p&gt;From time to time, I have something I&#039;d like to let you all know, and now I finally have a place to put it. Welcome to the new and improved, JENVILLE 2.0! &lt;/p&gt;
+&lt;p&gt;This poor site has been gathering dust for years because I&#039;ve just been too busy to give it the overhaul it desperately needed. In addition to the new look, the site is now running on Drupal (surprise, surprise) which should make it a lot easier to update and maintain. That means you can leave comments (nice ones, of course) and keep up to date by subscribing to the RSS feed.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://jenville.com/making/welcome-jenville-20&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://jenville.com/making">Making</category>
+ <category domain="http://jenville.com/category/tags/jenville">jenville</category>
+ <category domain="http://jenville.com/category/tags/making">making</category>
+ <category domain="http://jenville.com/category/tags/site">site</category>
+ <pubDate>Tue, 06 May 2008 15:04:31 -0400</pubDate>
+ <dc:creator>jen</dc:creator>
+ <guid isPermaLink="false">83 at http://jenville.com</guid>
+</item>
+</channel>
+</rss>
